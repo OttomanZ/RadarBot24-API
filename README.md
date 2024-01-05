@@ -206,7 +206,7 @@ coded or it's somewhere in the `License Key` section.
 4. We need to Hire a Android Application Reverse Engineering Professional to Proceed Forward
 to see how the app is decrypting the database.
 
-```json
+```python
 
 import requests
 
@@ -225,7 +225,7 @@ session.post(burp0_url, headers=burp0_headers, data=burp0_data)
 
 **German Radars / Traffic Light Information**:
 
-```
+```json
 {"code": 0,"url": "https://radarbot-db.s3-accelerate.amazonaws.com/radars_v3/radars_de.db"}
 ```
 
@@ -245,14 +245,14 @@ to see how the app is decrypting the database.
 
 ### Database Content
 
-```
+```binary
 TUKAKAB?@I?B@BCKGAE@KcYGHIIKEB>GCAIEIKG>GCCBEEKVKG@KR0BACKDKAKAIFK@GI@@KEA>I@DACAKH>CEHDDHKVKG@Kguƒ„‚y~w<0R0FAKDKAKBI@K@GIDGKDG>FFIIAFKI>AFC@D@KVKF@KcsxÓ´~Š|ur‚ÓÌs{u<0R0CC~KDKAKGHK@GIDHKDG>FFIIFIKI>AFBHD@KVKF@KcsxÓ´~Š|ur‚ÓÌs{u<0R0CC~KDKAKBEIK@GIG@KDG>HIAHFEKI>C@GFFGKVKE@K\0B@AKDKBKBA@K@GIGAKDG>IABB@GKI>B@BEDDKVKE@Kc„s{qsxu‚0c„‚qÓ¯u<0\0AIDKDKBKB@BK@GIHFKEA>BDI@FFKF>B@EDFGKVKE@KRyƒxuy}u‚0c„‚qÓ¯u<0\0CGCKDKBKB@CK@H@@FKDH>ABGHEFKI>FEAGA@KVKE@Ke„„u~‡uy|u‚0c„‚qÓ¯u<
 ```
 
 This file is present w/ an `info.json` containing the starting data from where we determined 
 the new country.
 
-```
+```json
 {
     "Globals": {
         "start_lat": 50.1099011,
