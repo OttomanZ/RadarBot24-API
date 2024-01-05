@@ -90,7 +90,7 @@ Engineering Experience to see which crpytographic algorithm is being used to acc
 tabase, it may be hardcoded inside. 
 
 
-```
+```python
 import requests
 
 session = requests.session()
@@ -107,7 +107,7 @@ session.post(burp0_url, headers=burp0_headers, data=burp0_data)
 ### JSON Responses
 
 
-```
+```json
 {
   "free": {
     "app_id": "0000",
@@ -153,7 +153,7 @@ when to display the alert when the distance gets to a certain point. As it loops
 the `current_point` which is passed as a parameter. `engine` currently selected is `grasshopper` for GPS devices that jump from one place to another.
 
 
-```
+```python
 import requests
 
 session = requests.session()
