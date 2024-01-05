@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <set name="fire-core/20.2.0 fire-app-check-play-integrity/16.1.0 device-model/vbox86p fire-fiam/20.2.0 device-name/vbox86p kotlin/1.7.20 android-installer/ fire-analytics/21.2.0 android-min-sdk/23 fire-fcm/23.1.0 fire-app-check-debug/16.1.0 fire-abt/21.1.0 fire-fiamd/20.2.0 fire-app-check/16.1.0 fire-installations/17.1.0 fire-android/31 fire-rc/21.2.0 device-brand/Google android-platform/ fire-transport/18.1.7 fire-cls/18.3.1 android-target-sdk/33 fire-gcs/20.1.0">
+        <string>2024-01-05</string>
+    </set>
+    <string name="last-used-date">2024-01-05</string>
+    <long name="fire-count" value="1" />
+    <long name="fire-global" value="1704385558278" />
+</map>

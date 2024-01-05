@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="core">{&quot;identifier&quot;:&quot;acbe06942264797c791254d9be5e515dd429ace54405b0b8&quot;,&quot;authentication&quot;:&quot;anonymous&quot;,&quot;brand_id&quot;:4483128263325,&quot;updated_at&quot;:&quot;2023-02-14T10:38:25Z&quot;}</string>
+    <string name="answer_bot">{&quot;enabled&quot;:true}</string>
+    <string name="help_center">{&quot;enabled&quot;:true,&quot;locale&quot;:&quot;en-gb&quot;,&quot;help_center_article_voting_enabled&quot;:true}</string>
+    <string name="blips">{&quot;permissions&quot;:{&quot;required&quot;:false,&quot;behavioural&quot;:false,&quot;pathfinder&quot;:true}}</string>
+    <string name="rma">{&quot;enabled&quot;:false,&quot;visits&quot;:15,&quot;duration&quot;:7,&quot;delay&quot;:3,&quot;tags&quot;:[],&quot;ios_store_url&quot;:&quot;&quot;,&quot;android_store_url&quot;:&quot;&quot;}</string>
+    <string name="rawsettings_keyset">[&quot;core&quot;,&quot;rma&quot;,&quot;support&quot;,&quot;help_center&quot;,&quot;blips&quot;,&quot;answer_bot&quot;]</string>
+    <string name="support">{&quot;conversations&quot;:{&quot;enabled&quot;:true},&quot;contact_us&quot;:{&quot;tags&quot;:[]},&quot;attachments&quot;:{&quot;enabled&quot;:true,&quot;max_attachment_size&quot;:52428800},&quot;ticket_forms&quot;:{&quot;available&quot;:true},&quot;never_request_email&quot;:false,&quot;show_closed_requests&quot;:true,&quot;show_referrer_logo&quot;:true,&quot;system_message&quot;:&quot;Your message has been sent. If a reply is needed, we will contact you shortly.&quot;,&quot;referrer_url&quot;:&quot;https://www.zendesk.com/embeddables&quot;,&quot;csat&quot;:{&quot;enabled&quot;:false}}</string>
+    <string name="last_settings_update">1704448433461</string>
+</map>

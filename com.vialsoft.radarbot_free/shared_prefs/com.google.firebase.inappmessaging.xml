@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="test_device" value="false" />
+    <boolean name="auto_init" value="true" />
+    <boolean name="fresh_install" value="false" />
+</map>

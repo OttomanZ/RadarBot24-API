@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="KEY_A" value="true" />
+    <boolean name="KEY_C" value="true" />
+    <int name="m_iSoundVolume" value="1" />
+    <boolean name="key_avisos_silenciar_llamada" value="true" />
+    <int name="VOICE_VERSION" value="1" />
+    <boolean name="KEY_B" value="true" />
+    <string name="m_bFiltersRadarCamuflado">0,1;10,0;15,0;20,0;25,0;30,0;35,0;40,0;45,0;50,0;55,0;60,0;65,0;70,0;75,0;80,0;82,0;85,0;90,0;95,0;100,0;110,0;120,0;130,0;140,0;150,0;160,0</string>
+    <int name="m_iVehicleType" value="0" />
+    <boolean name="KEY_F" value="true" />
+    <string name="key_user_speeed_limit">0</string>
+    <boolean name="m_bCountryChangeAuto" value="true" />
+    <boolean name="loginMessageShowed" value="true" />
+    <boolean name="key_avisos_voz" value="true" />
+    <string name="subscription.channel.language">en_us</string>
+    <boolean name="m_bTurnByTurnVoice" value="true" />
+    <boolean name="KEY_PN" value="true" />
+    <string name="key_vehicle">0</string>
+    <int name="AppSettingsVersionKey" value="10" />
+    <boolean name="KEY_S" value="true" />
+    <boolean name="KEY_R" value="true" />
+    <string name="key_auto_power_off">1</string>
+    <boolean name="KEY_U" value="true" />
+    <boolean name="m_usePhoneSpeaker" value="false" />
+    <int name="m_iDistAvisoPermanente" value="0" />
+    <boolean name="m_bAvisoGPS_Off" value="true" />
+    <boolean name="KEY_CM" value="true" />
+    <boolean name="key_settings_country_change_auto" value="true" />
+    <boolean name="m_bFullSizeWidget" value="false" />
+    <boolean name="m_bUpdateAuto" value="true" />
+    <boolean name="key_road_speeed_limit" value="true" />
+    <boolean name="m_bShowMap" value="true" />
+    <boolean name="KEY_SC" value="true" />
+    <boolean name="rb_account_registered" value="true" />
+    <boolean name="m_bAvisosSonoros" value="true" />
+    <boolean name="m_bWarningRerouting" value="false" />
+    <boolean name="m_bSilenciarLlamada" value="true" />
+    <string name="subscription.channel.timeZone">GMT0</string>
+    <boolean name="m_handsfree" value="true" />
+    <boolean name="key_avisos_vibrador" value="true" />
+    <string name="key_dist_aviso1">0</string>
+    <boolean name="m_bAvisosVoz" value="true" />
+    <boolean name="key_avisos_sentido_marcha" value="true" />
+    <boolean name="key_copilot" value="true" />
+    <boolean name="m_bRadarsMyWay" value="true" />
+    <string name="key_modo_pantalla">0</string>
+    <boolean name="key_settings_update_auto" value="true" />
+    <boolean name="key_navigation_voices" value="true" />
+    <int name="m_iVoice" value="1" />
+    <boolean name="key_settings_gps_fused" value="false" />
+    <boolean name="KEY_AR" value="true" />
+    <boolean name="key_avisos_perdida_gps" value="true" />
+    <string name="subscription.channel.country">us</string>
+    <int name="last_selected_alert_type" value="6" />
+    <boolean name="m_bAvisoSpeed" value="true" />
+    <int name="m_iDistAvisoInicial" value="0" />
+    <boolean name="m_bAvisoVelocidadFija" value="false" />
+    <string name="m_sMapCountry">ru</string>
+    <boolean name="m_bSpeakNavigationRoads" value="true" />
+    <string name="key_select_language"></string>
+    <int name="m_iScreenMode" value="0" />
+    <boolean name="KEY_AL" value="false" />
+    <boolean name="m_bShowTrafficCameras" value="true" />
+    <boolean name="m_bGPSFusedLocation" value="false" />
+    <boolean name="key_avisos_superar_limite" value="true" />
+    <boolean name="key_avisos_sonoros" value="true" />
+    <boolean name="key_user_speeed_limit_warning" value="false" />
+    <int name="m_iVelocidadAviso" value="0" />
+    <boolean name="m_bMuteAllSounds" value="false" />
+    <boolean name="key_play_tts_text" value="true" />
+    <boolean name="m_bAvisoVibrador" value="true" />
+    <boolean name="m_bAutoroutingFast" value="false" />
+    <int name="m_iNightModeColor" value="0" />
+    <int name="m_iAutoPowerOffTime" value="1" />
+    <int name="m_iRepresentationSystem" value="0" />
+    <string name="m_bFiltersRadarFijo">0,1;10,1;15,1;20,1;25,1;30,1;35,1;40,1;45,1;50,1;55,1;60,1;65,1;70,1;75,1;80,1;82,1;85,1;90,1;95,1;100,1;110,1;120,1;130,1;140,1;150,1;160,1</string>
+    <boolean name="m_bShowTraffic" value="false" />
+    <boolean name="m_bShowOverlay" value="false" />
+    <int name="m_iNightMode" value="2" />
+    <boolean name="m_bCopilot" value="true" />
+    <boolean name="m_bPlayTtsAlertText" value="true" />
+    <boolean name="key_chk_radar_8" value="true" />
+    <boolean name="m_bRoadSpeedLimits" value="true" />
+    <boolean name="key_settings_mute_all_sounds" value="false" />
+    <string name="key_dist_aviso_permanente">0</string>
+</map>

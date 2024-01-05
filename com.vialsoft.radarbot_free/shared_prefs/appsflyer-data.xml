@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="prev_event_name">updateDatabase</string>
+    <long name="prev_event_timestamp" value="1704449817715" />
+    <int name="appsFlyerInAppEventCount" value="44" />
+    <long name="prev_session_dur" value="472" />
+    <string name="afUninstallToken">fnwo9KelRL6FbNt6wIKYQ2:APA91bE4wn_huabwvo32eXvB4e0uG0DePUueZYVDQEOUGy_M1RSS2UoajIPHC6B947j61NwEpxBqKSaE_5HyTnpXWfysyYDkQF45L_xBj_nrl8-wFZPzqcZIavjAjmC2BbMGfEpG6Xsd</string>
+    <long name="af_rc_max_age" value="86400" />
+    <boolean name="ddl_sent" value="true" />
+    <string name="sentSuccessfully">true</string>
+    <boolean name="sentRegisterRequestToAF" value="true" />
+    <int name="versionCode" value="189" />
+    <string name="af_remote_config">eyJkYXRhIjp7fSwidmVyIjoiZGVmYXVsdC52MS4xNjM3MTQ5NTI5In0=</string>
+    <string name="savedProperties">{&quot;uid&quot;:&quot;1704385551575-8500846268890460043&quot;,&quot;waitForCustomerId&quot;:&quot;false&quot;,&quot;onelinkVersion&quot;:&quot;16&quot;,&quot;oneLinkSlug&quot;:&quot;Qe40&quot;,&quot;onelinkDomain&quot;:&quot;radarbot.onelink.me&quot;,&quot;additionalCustomData&quot;:&quot;{\&quot;onesignalCustomerId\&quot;:\&quot;ecac7673-ec6e-4c2c-a8b3-2f6ae36c0d4a\&quot;}&quot;,&quot;AppUserId&quot;:&quot;fnwo9KelRL6FbNt6wIKYQ2:APA91bE4wn_huabwvo32eXvB4e0uG0DePUueZYVDQEOUGy_M1RSS2UoajIPHC6B947j61NwEpxBqKSaE_5HyTnpXWfysyYDkQF45L_xBj_nrl8-wFZPzqcZIavjAjmC2BbMGfEpG6Xsd&quot;,&quot;onelinkScheme&quot;:&quot;radarbot:\/\/&quot;,&quot;advertiserId&quot;:&quot;39fa2897-652f-4ed2-b55f-9eeba242cb5b&quot;,&quot;advertiserIdEnabled&quot;:&quot;true&quot;}</string>
+    <string name="AF_INSTALLATION">1704385551575-8500846268890460043</string>
+    <long name="exception_number" value="1081" />
+    <boolean name="afUninstallToken_queued" value="false" />
+    <int name="appsFlyerCount" value="18" />
+    <long name="af_rc_timestamp" value="1704385552311" />
+    <long name="AppsFlyerTimePassedSincePrevLaunch" value="1704449687318" />
+    <boolean name="newGPReferrerSent" value="true" />
+    <string name="appsFlyerFirstInstall">2024-01-04_162551+0000</string>
+    <long name="afUninstallToken_received_time" value="1704385559259" />
+    <string name="attributionId">{&quot;install_time&quot;:&quot;2024-01-04 16:25:59.246&quot;,&quot;af_status&quot;:&quot;Organic&quot;,&quot;af_message&quot;:&quot;organic install&quot;,&quot;is_first_launch&quot;:false}</string>
+</map>

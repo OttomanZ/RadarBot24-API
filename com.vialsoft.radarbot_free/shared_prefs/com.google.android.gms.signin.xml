@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="googleSignInOptions:8D5187BECD4B41D1863D2C334BEA2D8C">{&quot;scopes&quot;:[&quot;email&quot;,&quot;openid&quot;,&quot;profile&quot;],&quot;idTokenRequested&quot;:false,&quot;forceCodeForRefreshToken&quot;:false,&quot;serverAuthRequested&quot;:false}</string>
+    <string name="defaultGoogleSignInAccount">8D5187BECD4B41D1863D2C334BEA2D8C</string>
+    <string name="googleSignInAccount:8D5187BECD4B41D1863D2C334BEA2D8C">{&quot;id&quot;:&quot;104568232675811312400&quot;,&quot;email&quot;:&quot;muneeb.pyc@gmail.com&quot;,&quot;displayName&quot;:&quot;MUNEEB A.&quot;,&quot;givenName&quot;:&quot;MUNEEB A.&quot;,&quot;photoUrl&quot;:&quot;https:\/\/lh3.googleusercontent.com\/a\/ACg8ocIkhxPKO9yugyjRz7S3JRgwpaK7ZdYVDvFi-XgV62a7Xrc&quot;,&quot;expirationTime&quot;:1704389170,&quot;obfuscatedIdentifier&quot;:&quot;8D5187BECD4B41D1863D2C334BEA2D8C&quot;,&quot;grantedScopes&quot;:[&quot;email&quot;,&quot;https:\/\/www.googleapis.com\/auth\/userinfo.email&quot;,&quot;https:\/\/www.googleapis.com\/auth\/userinfo.profile&quot;,&quot;openid&quot;,&quot;profile&quot;]}</string>
+</map>

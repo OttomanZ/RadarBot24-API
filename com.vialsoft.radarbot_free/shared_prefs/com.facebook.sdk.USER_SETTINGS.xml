@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="com.facebook.sdk.AutoLogAppEventsEnabled">{&quot;value&quot;:true,&quot;last_timestamp&quot;:1704449687201}</string>
+    <string name="com.facebook.sdk.AdvertiserIDCollectionEnabled">{&quot;value&quot;:true,&quot;last_timestamp&quot;:1704449687201}</string>
+    <string name="com.facebook.sdk.AutoInitEnabled">{&quot;value&quot;:true,&quot;last_timestamp&quot;:1704449687201}</string>
+    <int name="com.facebook.sdk.USER_SETTINGS_BITMASK" value="15" />
+</map>

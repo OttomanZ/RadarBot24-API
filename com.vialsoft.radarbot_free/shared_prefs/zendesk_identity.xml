@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="zendesk-identity-type">anonymous</string>
+    <string name="uuid">a4a523b1-8813-4b60-a045-e7fc2434d5a0</string>
+    <string name="zendesk-identity">{&quot;email&quot;:&quot;muneeb.pyc@gmail.com&quot;,&quot;name&quot;:&quot;MUNEEB A.&quot;}</string>
+</map>

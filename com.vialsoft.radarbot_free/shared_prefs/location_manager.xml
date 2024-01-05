@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="cachedLocation.provider">gps</string>
+    <float name="cachedLocation.latitude" value="55.74077" />
+    <long name="cachedLocation.time" value="1704450576000" />
+    <float name="cachedLocation.accuracy" value="50.0" />
+    <float name="cachedLocation.longitude" value="37.65639" />
+    <float name="cachedLocation.bearing" value="309.0" />
+</map>

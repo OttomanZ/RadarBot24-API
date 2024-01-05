@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="pushRegistrationRequest">{&quot;device_type&quot;:&quot;android&quot;,&quot;identifier&quot;:&quot;ecac7673-ec6e-4c2c-a8b3-2f6ae36c0d4a&quot;,&quot;locale&quot;:&quot;en-us&quot;,&quot;sdk_guid&quot;:&quot;a4a523b1-8813-4b60-a045-e7fc2434d5a0&quot;}</string>
+</map>

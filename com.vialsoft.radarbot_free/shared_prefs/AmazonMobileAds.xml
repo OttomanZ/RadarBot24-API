@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="config-aaxHostname">aax.amazon-adsystem.com</string>
+    <string name="config-sisDomain">amazon.com</string>
+    <long name="amzn-ad-sis-last-checkin" value="1704449685686" />
+    <int name="configVersion" value="4" />
+    <boolean name="config-whitelistedCustomer" value="false" />
+    <long name="config-identifyUserInterval" value="86400000" />
+    <boolean name="config-truncateLatLon" value="false" />
+    <string name="config-sisURL">s.amazon-adsystem.com</string>
+    <string name="config-adPrefURL">https://s.amazon-adsystem.com/gp/aw/aap/app</string>
+    <long name="config-viewableInterval" value="200" />
+    <string name="config-adResourcePath">/e/msdk/ads</string>
+    <string name="config-viewableJavascriptCDNURL">https://dwxjayoxbnyrr.cloudfront.net/amazon-ads-v2.viewablejs</string>
+    <long name="config-lastFetchTime" value="1704448171392" />
+    <int name="config-viewableJSVersionConfig" value="5" />
+    <boolean name="config-sendGeo" value="false" />
+    <string name="config-madsHostname">mads.amazon.com</string>
+    <boolean name="newSISDIDRequested" value="true" />
+    <string name="gpsAdId">39fa2897-652f-4ed2-b55f-9eeba242cb5b</string>
+    <long name="config-identifyUserSessionIdInterval" value="28800000" />
+    <long name="config-ttl" value="86400000" />
+</map>

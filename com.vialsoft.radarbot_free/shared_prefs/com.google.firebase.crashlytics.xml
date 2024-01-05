@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="firebase.installation.id">fnwo9KelRL6FbNt6wIKYQ2</string>
+    <string name="existing_instance_identifier">f0e1e7919dda8bbbe108ea89426eea4489fd147c</string>
+    <string name="crashlytics.installation.id">fc40e1b3c9234e09b780771eceaf9501</string>
+    <boolean name="firebase_crashlytics_collection_enabled" value="true" />
+</map>
